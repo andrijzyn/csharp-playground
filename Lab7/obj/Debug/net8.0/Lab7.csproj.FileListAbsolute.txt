@@ -1,0 +1,14 @@
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/OnL_/Lab7/bin/Debug/net8.0/Lab7
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/OnL_/Lab7/bin/Debug/net8.0/Lab7.deps.json
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/OnL_/Lab7/bin/Debug/net8.0/Lab7.runtimeconfig.json
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/OnL_/Lab7/bin/Debug/net8.0/Lab7.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/OnL_/Lab7/bin/Debug/net8.0/Lab7.pdb
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/OnL_/Lab7/obj/Debug/net8.0/Lab7.GeneratedMSBuildEditorConfig.editorconfig
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/OnL_/Lab7/obj/Debug/net8.0/Lab7.AssemblyInfoInputs.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/OnL_/Lab7/obj/Debug/net8.0/Lab7.AssemblyInfo.cs
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/OnL_/Lab7/obj/Debug/net8.0/Lab7.csproj.CoreCompileInputs.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/OnL_/Lab7/obj/Debug/net8.0/Lab7.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/OnL_/Lab7/obj/Debug/net8.0/refint/Lab7.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/OnL_/Lab7/obj/Debug/net8.0/Lab7.pdb
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/OnL_/Lab7/obj/Debug/net8.0/Lab7.genruntimeconfig.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/OnL_/Lab7/obj/Debug/net8.0/ref/Lab7.dll

@@ -1,0 +1,42 @@
+/home/andrijzyn/Documents/cs/3/Phy_Fall/bin/Debug/net8.0/Phy_Fall
+/home/andrijzyn/Documents/cs/3/Phy_Fall/bin/Debug/net8.0/Phy_Fall.deps.json
+/home/andrijzyn/Documents/cs/3/Phy_Fall/bin/Debug/net8.0/Phy_Fall.runtimeconfig.json
+/home/andrijzyn/Documents/cs/3/Phy_Fall/bin/Debug/net8.0/Phy_Fall.dll
+/home/andrijzyn/Documents/cs/3/Phy_Fall/bin/Debug/net8.0/Phy_Fall.pdb
+/home/andrijzyn/Documents/cs/3/Phy_Fall/obj/Debug/net8.0/Phy_Fall.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrijzyn/Documents/cs/3/Phy_Fall/obj/Debug/net8.0/Phy_Fall.AssemblyInfoInputs.cache
+/home/andrijzyn/Documents/cs/3/Phy_Fall/obj/Debug/net8.0/Phy_Fall.AssemblyInfo.cs
+/home/andrijzyn/Documents/cs/3/Phy_Fall/obj/Debug/net8.0/Phy_Fall.csproj.CoreCompileInputs.cache
+/home/andrijzyn/Documents/cs/3/Phy_Fall/obj/Debug/net8.0/Phy_Fall.dll
+/home/andrijzyn/Documents/cs/3/Phy_Fall/obj/Debug/net8.0/refint/Phy_Fall.dll
+/home/andrijzyn/Documents/cs/3/Phy_Fall/obj/Debug/net8.0/Phy_Fall.pdb
+/home/andrijzyn/Documents/cs/3/Phy_Fall/obj/Debug/net8.0/Phy_Fall.genruntimeconfig.cache
+/home/andrijzyn/Documents/cs/3/Phy_Fall/obj/Debug/net8.0/ref/Phy_Fall.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Phy_Fall/bin/Debug/net8.0/Phy_Fall
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Phy_Fall/bin/Debug/net8.0/Phy_Fall.deps.json
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Phy_Fall/bin/Debug/net8.0/Phy_Fall.runtimeconfig.json
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Phy_Fall/bin/Debug/net8.0/Phy_Fall.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Phy_Fall/bin/Debug/net8.0/Phy_Fall.pdb
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Phy_Fall/obj/Debug/net8.0/Phy_Fall.GeneratedMSBuildEditorConfig.editorconfig
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Phy_Fall/obj/Debug/net8.0/Phy_Fall.AssemblyInfoInputs.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Phy_Fall/obj/Debug/net8.0/Phy_Fall.AssemblyInfo.cs
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Phy_Fall/obj/Debug/net8.0/Phy_Fall.csproj.CoreCompileInputs.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Phy_Fall/obj/Debug/net8.0/Phy_Fall.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Phy_Fall/obj/Debug/net8.0/refint/Phy_Fall.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Phy_Fall/obj/Debug/net8.0/Phy_Fall.pdb
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Phy_Fall/obj/Debug/net8.0/Phy_Fall.genruntimeconfig.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Phy_Fall/obj/Debug/net8.0/ref/Phy_Fall.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/Лаб 3.1/Phy_Fall_Unit1/bin/Debug/net8.0/Phy_Fall
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/Лаб 3.1/Phy_Fall_Unit1/bin/Debug/net8.0/Phy_Fall.deps.json
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/Лаб 3.1/Phy_Fall_Unit1/bin/Debug/net8.0/Phy_Fall.runtimeconfig.json
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/Лаб 3.1/Phy_Fall_Unit1/bin/Debug/net8.0/Phy_Fall.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/Лаб 3.1/Phy_Fall_Unit1/bin/Debug/net8.0/Phy_Fall.pdb
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/Лаб 3.1/Phy_Fall_Unit1/obj/Debug/net8.0/Phy_Fall.GeneratedMSBuildEditorConfig.editorconfig
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/Лаб 3.1/Phy_Fall_Unit1/obj/Debug/net8.0/Phy_Fall.AssemblyInfoInputs.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/Лаб 3.1/Phy_Fall_Unit1/obj/Debug/net8.0/Phy_Fall.AssemblyInfo.cs
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/Лаб 3.1/Phy_Fall_Unit1/obj/Debug/net8.0/Phy_Fall.csproj.CoreCompileInputs.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/Лаб 3.1/Phy_Fall_Unit1/obj/Debug/net8.0/Phy_Fall.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/Лаб 3.1/Phy_Fall_Unit1/obj/Debug/net8.0/refint/Phy_Fall.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/Лаб 3.1/Phy_Fall_Unit1/obj/Debug/net8.0/Phy_Fall.pdb
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/Лаб 3.1/Phy_Fall_Unit1/obj/Debug/net8.0/Phy_Fall.genruntimeconfig.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП_C#/cs/Лаб 3.1/Phy_Fall_Unit1/obj/Debug/net8.0/ref/Phy_Fall.dll

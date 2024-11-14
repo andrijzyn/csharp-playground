@@ -1,0 +1,201 @@
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Penetrator
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Penetrator.deps.json
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Penetrator.runtimeconfig.json
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Penetrator.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Penetrator.pdb
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Base.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Controls.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Markup.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Metal.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Vulkan.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Desktop.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Native.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Skia.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Win32.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.X11.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/HarfBuzzSharp.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/MicroCom.Runtime.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/SkiaSharp.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/obj/Debug/net8.0/Penetrator.csproj.AssemblyReference.cache
+/home/andrijzyn/Documents/cs/2/Penetrator/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/home/andrijzyn/Documents/cs/2/Penetrator/obj/Debug/net8.0/Avalonia/resources
+/home/andrijzyn/Documents/cs/2/Penetrator/obj/Debug/net8.0/Penetrator.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrijzyn/Documents/cs/2/Penetrator/obj/Debug/net8.0/Penetrator.AssemblyInfoInputs.cache
+/home/andrijzyn/Documents/cs/2/Penetrator/obj/Debug/net8.0/Penetrator.AssemblyInfo.cs
+/home/andrijzyn/Documents/cs/2/Penetrator/obj/Debug/net8.0/Penetrator.csproj.CoreCompileInputs.cache
+/home/andrijzyn/Documents/cs/2/Penetrator/obj/Debug/net8.0/Avalonia/Penetrator.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/obj/Debug/net8.0/Avalonia/Penetrator.pdb
+/home/andrijzyn/Documents/cs/2/Penetrator/obj/Debug/net8.0/refint/Avalonia/Penetrator.dll
+/home/andrijzyn/Documents/cs/2/Penetrator/obj/Debug/net8.0/Penetrator.csproj.Up2Date
+/home/andrijzyn/Documents/cs/2/Penetrator/obj/Debug/net8.0/Penetrator.genruntimeconfig.cache
+/home/andrijzyn/Documents/cs/2/Penetrator/obj/Debug/net8.0/ref/Penetrator.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Penetrator
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Penetrator.deps.json
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Penetrator.runtimeconfig.json
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Penetrator.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Penetrator.pdb
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Base.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Controls.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Markup.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Metal.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Vulkan.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Desktop.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Native.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Skia.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.Win32.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Avalonia.X11.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/HarfBuzzSharp.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/MicroCom.Runtime.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/SkiaSharp.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/System.IO.Pipelines.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/obj/Debug/net8.0/Penetrator.csproj.AssemblyReference.cache
+/media/andrijzyn/Extended/cs/2/Penetrator/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/media/andrijzyn/Extended/cs/2/Penetrator/obj/Debug/net8.0/Avalonia/resources
+/media/andrijzyn/Extended/cs/2/Penetrator/obj/Debug/net8.0/Penetrator.GeneratedMSBuildEditorConfig.editorconfig
+/media/andrijzyn/Extended/cs/2/Penetrator/obj/Debug/net8.0/Penetrator.AssemblyInfoInputs.cache
+/media/andrijzyn/Extended/cs/2/Penetrator/obj/Debug/net8.0/Penetrator.AssemblyInfo.cs
+/media/andrijzyn/Extended/cs/2/Penetrator/obj/Debug/net8.0/Penetrator.csproj.CoreCompileInputs.cache
+/media/andrijzyn/Extended/cs/2/Penetrator/obj/Debug/net8.0/Avalonia/Penetrator.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/obj/Debug/net8.0/Avalonia/Penetrator.pdb
+/media/andrijzyn/Extended/cs/2/Penetrator/obj/Debug/net8.0/refint/Avalonia/Penetrator.dll
+/media/andrijzyn/Extended/cs/2/Penetrator/obj/Debug/net8.0/Penetrator.csproj.Up2Date
+/media/andrijzyn/Extended/cs/2/Penetrator/obj/Debug/net8.0/Penetrator.genruntimeconfig.cache
+/media/andrijzyn/Extended/cs/2/Penetrator/obj/Debug/net8.0/ref/Penetrator.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Penetrator
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Penetrator.deps.json
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Penetrator.runtimeconfig.json
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Penetrator.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Penetrator.pdb
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Base.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Controls.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Markup.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Metal.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Vulkan.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Desktop.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Native.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Skia.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.Win32.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Avalonia.X11.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/HarfBuzzSharp.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/MicroCom.Runtime.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/SkiaSharp.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/System.IO.Pipelines.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/obj/Debug/net8.0/Penetrator.csproj.AssemblyReference.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/obj/Debug/net8.0/Avalonia/resources
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/obj/Debug/net8.0/Penetrator.GeneratedMSBuildEditorConfig.editorconfig
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/obj/Debug/net8.0/Penetrator.AssemblyInfoInputs.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/obj/Debug/net8.0/Penetrator.AssemblyInfo.cs
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/obj/Debug/net8.0/Penetrator.csproj.CoreCompileInputs.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/obj/Debug/net8.0/Avalonia/Penetrator.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/obj/Debug/net8.0/Avalonia/Penetrator.pdb
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/obj/Debug/net8.0/refint/Avalonia/Penetrator.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/obj/Debug/net8.0/Penetrator.csproj.Up2Date
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/obj/Debug/net8.0/Penetrator.genruntimeconfig.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/ООП/cs/3/Penetrator/obj/Debug/net8.0/ref/Penetrator.dll

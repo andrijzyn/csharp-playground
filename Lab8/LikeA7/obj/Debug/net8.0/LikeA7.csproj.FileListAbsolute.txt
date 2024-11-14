@@ -1,0 +1,14 @@
+/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab8/LikeA7/bin/Debug/net8.0/LikeA7
+/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab8/LikeA7/bin/Debug/net8.0/LikeA7.deps.json
+/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab8/LikeA7/bin/Debug/net8.0/LikeA7.runtimeconfig.json
+/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab8/LikeA7/bin/Debug/net8.0/LikeA7.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab8/LikeA7/bin/Debug/net8.0/LikeA7.pdb
+/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab8/LikeA7/obj/Debug/net8.0/LikeA7.GeneratedMSBuildEditorConfig.editorconfig
+/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab8/LikeA7/obj/Debug/net8.0/LikeA7.AssemblyInfoInputs.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab8/LikeA7/obj/Debug/net8.0/LikeA7.AssemblyInfo.cs
+/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab8/LikeA7/obj/Debug/net8.0/LikeA7.csproj.CoreCompileInputs.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab8/LikeA7/obj/Debug/net8.0/LikeA7.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab8/LikeA7/obj/Debug/net8.0/refint/LikeA7.dll
+/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab8/LikeA7/obj/Debug/net8.0/LikeA7.pdb
+/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab8/LikeA7/obj/Debug/net8.0/LikeA7.genruntimeconfig.cache
+/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab8/LikeA7/obj/Debug/net8.0/ref/LikeA7.dll
