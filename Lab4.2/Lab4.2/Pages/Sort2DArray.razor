@@ -1,0 +1,67 @@
+@page "/sort2darray"
+@using System.Linq
+
+<h3>Сортування елементів у двовимірному масиві</h3>
+
+<p>Початковий масив:</p>
+@DisplayMatrix(_originalMatrix)
+
+<button @onclick="SortMatrix">Відсортувати рядки за зростанням</button>
+
+@if (_isSorted)
+{
+<p>Відсортований масив:</p>
+@DisplayMatrix(_sortedMatrix)
+}
+
+@code {
+
+// Визначаємо двовимірний масив чисел
+private int[,] _originalMatrix = {
+{ 5, 2, 9, 3 },
+{ 8, 6, 1, 4 },
+{ 7, 3, 0, 2 }
+};
+
+private int[,] _sortedMatrix;
+
+private bool _isSorted = false;
+
+// Метод для сортування кожного рядка масиву за зростанням
+private void SortMatrix()
+{
+var rows = _originalMatrix.GetLength(0);
+var cols = _originalMatrix.GetLength(1);
+
+_sortedMatrix = (int[,])_originalMatrix.Clone();
+
+for (var i = 0; i < rows; i++)
+{
+// Витягуємо елементи рядка, сортуємо, і повертаємо назад в масив
+var row = Enumerable.Range(0, cols).Select(j => _sortedMatrix[i, j]).ToArray();
+Array.Sort(row);
+for (var j = 0; j < cols; j++)
+{
+_sortedMatrix[i, j] = row[j];
+}
+}
+
+_isSorted = true;
+}
+
+// Метод для відображення матриці
+private static RenderFragment DisplayMatrix(int[,] mat) => builder =>
+{
+var rows = mat.GetLength(0);
+var cols = mat.GetLength(1);
+for (var i = 0; i < rows; i++)
+{
+builder.OpenElement(0, "p");
+for (var j = 0; j < cols; j++)
+{
+builder.AddContent(1, $"{mat[i, j]} ");
+}
+builder.CloseElement();
+}
+};
+}
