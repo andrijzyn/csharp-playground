@@ -1,0 +1,28 @@
+@page "/oddnegativeproduct"
+@using System.Linq
+
+<h3>Обчислення добутку непарних від'ємних чисел</h3>
+
+<p>Масив чисел: @string.Join(", ", numbers)</p>
+<button @onclick="CalculateProduct">Обчислити добуток</button>
+
+@if (result != null)
+{
+<p>Результат: @result</p>
+}
+
+@code {
+// Визначаємо масив з 10 цілих чисел
+private int[] numbers = { -5, 4, -3, 7, -2, -9, 6, -7, 8, -1 };
+
+// Змінна для збереження результату обчислення
+private int? result = null;
+
+// Метод для обчислення добутку непарних від'ємних чисел
+private void CalculateProduct()
+{
+// Відбираємо непарні від'ємні числа та обчислюємо їх добуток
+var oddNegativeNumbers = numbers.Where(n => n < 0 && n % 2 != 0).ToArray();
+result = oddNegativeNumbers.Any() ? oddNegativeNumbers.Aggregate(1, (prod, n) => prod * n) : 0;
+}
+}

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pGgxI/ww6+U=",
+  "dgSpecHash": "+trda2/xjVw=",
   "success": true,
   "projectFilePath": "/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.2/Lab4.2/Lab4.2.csproj",
   "expectedPackageFiles": [
+    "/home/andrijzyn/.nuget/packages/bootstrap/5.3.3/bootstrap.5.3.3.nupkg.sha512",
     "/home/andrijzyn/.nuget/packages/microsoft.aspnetcore.authorization/8.0.11/microsoft.aspnetcore.authorization.8.0.11.nupkg.sha512",
     "/home/andrijzyn/.nuget/packages/microsoft.aspnetcore.components/8.0.11/microsoft.aspnetcore.components.8.0.11.nupkg.sha512",
     "/home/andrijzyn/.nuget/packages/microsoft.aspnetcore.components.analyzers/8.0.11/microsoft.aspnetcore.components.analyzers.8.0.11.nupkg.sha512",
