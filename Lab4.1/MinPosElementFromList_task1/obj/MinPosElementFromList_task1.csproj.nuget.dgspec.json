@@ -1,18 +1,19 @@
 {
   "format": 1,
   "restore": {
-    "/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab4.1/MinPosElementFromList_task1/MinPosElementFromList_task1.csproj": {}
+    "/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/MinPosElementFromList_task1.csproj": {}
   },
   "projects": {
-    "/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab4.1/MinPosElementFromList_task1/MinPosElementFromList_task1.csproj": {
+    "/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/MinPosElementFromList_task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab4.1/MinPosElementFromList_task1/MinPosElementFromList_task1.csproj",
+        "projectUniqueName": "/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/MinPosElementFromList_task1.csproj",
         "projectName": "MinPosElementFromList_task1",
-        "projectPath": "/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab4.1/MinPosElementFromList_task1/MinPosElementFromList_task1.csproj",
+        "projectPath": "/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/MinPosElementFromList_task1.csproj",
         "packagesPath": "/home/andrijzyn/.nuget/packages/",
-        "outputPath": "/media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab4.1/MinPosElementFromList_task1/obj/",
+        "outputPath": "/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/home/andrijzyn/.nuget/NuGet/NuGet.Config"
         ],
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

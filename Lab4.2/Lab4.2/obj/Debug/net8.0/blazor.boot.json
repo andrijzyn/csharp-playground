@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Lab4.2",
   "resources": {
-    "hash": "sha256-mUrsyNRolBtmdaFqEpH28TecSXRT7RXK9Oem1BoSKX0=",
+    "hash": "sha256-/7a6XOhzzPk4K0VFRBNYV3rikD5UCfYqmQyXgREhUDQ=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.big0ckenuo.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-04e4k5XU8HWGB/dq/2+j84xzzGPflTs0IYWI0OxogVc=",
       "netstandard.wasm": "sha256-gnGZURPnoSmjXuYNCOJi5tt8qn2LRImWgue1Ru3/TDQ=",
       "System.Private.CoreLib.wasm": "sha256-6w3jYr0arcp8jnt4aeqh+AmqrLA6q7jl9rQYAwLzE0M=",
-      "Lab4.2.wasm": "sha256-a/vMNAulHQSoH6AI16hIb8jMFfaSP6O1jHdlU5qUsFw="
+      "Lab4.2.wasm": "sha256-niRu6ZgeAQjAFbW0FJbhM3/Xe3S6HtDyGsUNbPRBTX4="
     },
     "pdb": {
-      "Lab4.2.pdb": "sha256-wLFjwXpAVwsN3BWY61g3wrHaHw24oTNvDjWqPRvQIh8="
+      "Lab4.2.pdb": "sha256-hqGbjSStUhkO4rfEg4zFcDbU+HzHBvujlCz3/ximTD8="
     }
   },
   "cacheBootResources": true,

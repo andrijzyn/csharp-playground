@@ -26,3 +26,18 @@
 /media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab4.1/MinPosElementFromList_task1/obj/Debug/net8.0/MinPosElementFromList_task1.pdb
 /media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab4.1/MinPosElementFromList_task1/obj/Debug/net8.0/MinPosElementFromList_task1.genruntimeconfig.cache
 /media/andrijzyn/Extended/Домашня праця/3 курс/Об'єктноОрієнтованеПрограмуванн/Codes/Lab4.1/MinPosElementFromList_task1/obj/Debug/net8.0/ref/MinPosElementFromList_task1.dll
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/bin/Debug/net8.0/MinPosElementFromList_task1
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/bin/Debug/net8.0/MinPosElementFromList_task1.deps.json
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/bin/Debug/net8.0/MinPosElementFromList_task1.runtimeconfig.json
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/bin/Debug/net8.0/MinPosElementFromList_task1.dll
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/bin/Debug/net8.0/MinPosElementFromList_task1.pdb
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/obj/Debug/net8.0/MinPosElementFromList_task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/obj/Debug/net8.0/MinPosElementFromList_task1.AssemblyInfoInputs.cache
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/obj/Debug/net8.0/MinPosElementFromList_task1.AssemblyInfo.cs
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/obj/Debug/net8.0/MinPosElementFromList_task1.csproj.CoreCompileInputs.cache
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/obj/Debug/net8.0/MinPosElementFromList_task1.sourcelink.json
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/obj/Debug/net8.0/MinPosElementFromList_task1.dll
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/obj/Debug/net8.0/refint/MinPosElementFromList_task1.dll
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/obj/Debug/net8.0/MinPosElementFromList_task1.pdb
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/obj/Debug/net8.0/MinPosElementFromList_task1.genruntimeconfig.cache
+/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.1/MinPosElementFromList_task1/obj/Debug/net8.0/ref/MinPosElementFromList_task1.dll

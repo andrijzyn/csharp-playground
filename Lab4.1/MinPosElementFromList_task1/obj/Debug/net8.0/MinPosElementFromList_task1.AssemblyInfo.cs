@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinPosElementFromList_task1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb8c6a6f0a55f4c0a8979f49cbe2faebdbce336f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinPosElementFromList_task1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinPosElementFromList_task1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

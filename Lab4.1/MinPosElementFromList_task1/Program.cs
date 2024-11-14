@@ -11,9 +11,7 @@ public abstract class Program {
         // Таска 1. Лінька LINQ для пошуку мінімального серед додатних елементів
         int? minPositive = array.Where(x => x > 0).Min();
         
-        Console.WriteLine(true
-            ? $"Мінімальний додатний елемент: {minPositive}"
-            : "Немає додатних елементів.");
+        Console.WriteLine($"Мінімальний додатний елемент: {minPositive}");
         
         // Таска 2. Фільтруємо додатні елементи
         var positiveElements = array.Where(x => x > 0).ToList();

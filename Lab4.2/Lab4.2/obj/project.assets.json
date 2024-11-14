@@ -2435,6 +2435,7 @@
       "packagesPath": "/home/andrijzyn/.nuget/packages/",
       "outputPath": "/home/andrijzyn/Documents/GitHub/ООП/OOP/Lab4.2/Lab4.2/obj/",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "/home/andrijzyn/.nuget/NuGet/NuGet.Config"
       ],
