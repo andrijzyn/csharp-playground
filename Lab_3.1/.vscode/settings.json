@@ -1,6 +1,0 @@
-{
-    "dotnet.defaultSolution": "Formula_Unit4.sln",
-    "files.associations": {
-        "iostream": "cpp"
-    }
-}
